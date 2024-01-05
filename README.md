@@ -2,7 +2,9 @@
 
 
 #### 🎓 I'm a BTech student at the National Institute of Technology Karnataka Surathkal
-- 👀 I’m interested in Web Developement
+- I'm looking forward to collaborate and work on Machine Learning Projects
+- I'm currently learning Deep Learning
+- I’m interested in Web Developement
 <br/>
 
 ### :email: Let's connect:
